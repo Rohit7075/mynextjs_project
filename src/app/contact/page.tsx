@@ -81,7 +81,7 @@ const Contact = () => {
                                 <div className="error-message"></div>
                                 <div className="sent-message">Your message has been sent. Thank you!</div>
                             </div>
-                            <div className="text-center"><button type="submit">Send Message</button></div>
+                            <div className="text-center"><button type="submit"  style={{backgroundColor:"#5670a0"}}>Send Message</button></div>
                         </form>
                     </div>
 
